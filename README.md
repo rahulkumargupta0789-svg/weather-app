@@ -36,5 +36,9 @@ weather-app/
 ├── script.js
 └── README.md
 
+Auther;
+chandu kumari
+this is a project made by implemtaion of html css and javascript
+
 github repo link :https://github.com/rahulkumargupta0789-svg/weather-app
 web page limk:https://weatherrapppppppp.netlify.app/
