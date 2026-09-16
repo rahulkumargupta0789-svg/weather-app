@@ -36,4 +36,5 @@ weather-app/
 ├── script.js
 └── README.md
 
-github repo link :s
+github repo link :https://github.com/rahulkumargupta0789-svg/weather-app
+web page limk:https://weatherrapppppppp.netlify.app/
